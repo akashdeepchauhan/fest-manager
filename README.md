@@ -32,10 +32,10 @@ To get the app up and running, do the following:
 ```js
 var config = {
     facebook: {
-        clientID: '{your variables here}',
-        clientSecret: '{your variables here}',
+        clientID: '{Your variables here : }',
+        clientSecret: '{Your variables here : }',
         callbackURL: "http://localhost:3000/auth/facebook/callback",
-        profileFields: ['emails']
+        profileFields: ['Emails:']
     },
     google: {
         clientID: '{your variables here}',
